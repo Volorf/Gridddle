@@ -12,7 +12,7 @@ Sometimes I create layout directly in FramerJS. So I am used to design layout wi
 
 ## How to set gridddle
 ```module.gridddle(size, color)```
-```size``` — is size of grid.
-```color``` — is grid's color.
+— ```size``` — is size of grid.
+— ```color``` — is grid's color.
 
 
