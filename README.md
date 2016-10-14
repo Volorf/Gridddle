@@ -15,4 +15,5 @@ Sometimes I create layout directly in FramerJS. So I am used to design layout wi
 size — is size of grid.
 color — is grid's color.
 
-
+## Hack for odd demention
+```stepOfGrid = Screen.width / 10```
