@@ -4,10 +4,15 @@ Grid module for FramerJS
 ##Lyrics
 Sometimes I create layout directly in FramerJS. So I am used to design layout with grid (is more important and useful design tool) I decide to create grid module for my favorite prototyping tool.
 
-##How it works
+##How to use it
 
-1.
-2.
-3.
+1. Download gridddle.coffee;
+2. Put it to module folder of your FramerJS project;
+3. Connect gridddle to your code.
+
+## How to set gridddle
+```module.gridddle(size, color)```
+
+
 
 
