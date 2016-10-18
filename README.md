@@ -11,9 +11,6 @@ Sometimes I create layout directly in FramerJS. So I am used to design layout wi
 3. Connect gridddle to your code.
 
 ## How to set gridddle
-```module.gridddle(size, color)```
-size — is size of grid.
+```module.gridddle(amount, color)```
+amount — grid's amount of square.
 color — is grid's color.
-
-## Hack for odd demention
-```stepOfGrid = Screen.width / 10```

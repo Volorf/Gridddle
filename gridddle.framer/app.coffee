@@ -9,10 +9,11 @@ Framer.Info =
 	description: ""
 
 
-bg = new BackgroundLayer
 module = require "gridddle"
 
 # Layers
+
+bg = new BackgroundLayer
 
 layerA = new Layer
 	width: 768
