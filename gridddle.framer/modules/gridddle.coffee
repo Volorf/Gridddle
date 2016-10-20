@@ -1,3 +1,4 @@
+# Add visible/unvisible property for grid
 exports.gridddle = (amount, color) ->
   amountSize = Screen.width / amount
   screenWidth = Screen.width
