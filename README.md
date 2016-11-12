@@ -4,7 +4,7 @@ Grid module for FramerJS
 ![Grid module for FramerJS](/gridddle.png)
 
 ##Lyrics
-Sometimes I create a layout for my prototype directly in FramerJS. So I used to design layout with grid (this is more important and useful design tool) I decided to create grid module for my favorite prototyping tool.
+Sometimes I create a layout for my prototype directly in FramerJS. So I am used to design layout with grid (this is the most important and useful design tool) in my visual editor (Sketch) I decided to create grid module for my favorite prototyping tool.
 
 ##How to use it
 
