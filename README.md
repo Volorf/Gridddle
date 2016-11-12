@@ -14,7 +14,7 @@ Sometimes I create a layout for my prototype directly in FramerJS. So I used to 
 
 ## How to set gridddle
 
-```
+```coffeescript
 # Connect gridddle module
 module = require "gridddle"
 
