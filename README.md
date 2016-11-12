@@ -8,7 +8,7 @@ Sometimes I create a layout for my prototype directly in FramerJS. So I used to 
 
 ##How to use it
 
-1. Download gridddle.coffee;
+1. [Download gridddle.coffee](https://github.com/Volorf/Gridddle/blob/master/gridddle.coffee);
 2. Put it into module folder of your FramerJS project;
 3. Connect gridddle to your code.
 
