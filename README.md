@@ -1,14 +1,14 @@
 # Gridddle
 Grid module for FramerJS
 
-![Grid module for FramerJS](/gridddle_logo.png)
+![Grid module for FramerJS](/gridddle.png)
 
 ##Lyrics
 Sometimes I create a layout for my prototype directly in FramerJS. So I used to design layout with grid (this is more important and useful design tool) I decided to create grid module for my favorite prototyping tool.
 
 ##How to use it
 
-1. [Download gridddle.coffee](https://github.com/Volorf/Gridddle/blob/master/gridddle.coffee);
+1. Download gridddle.coffee;
 2. Put it into module folder of your FramerJS project;
 3. Connect gridddle to your code.
 
@@ -33,4 +33,4 @@ module.gridddle(amountOfCell, gridColor)
 
 **gridColor** sets color for our grid.
 
-![Grid module for FramerJS](/record.gif)
+![Grid module for FramerJS](/gridddle.gif)
