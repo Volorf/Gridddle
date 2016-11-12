@@ -25,3 +25,5 @@ amountOfCell = 16
 # Call gridddle and pass it out gridddle settings
 module.gridddle(amountOfCell, gridColor)
 ```
+
+![Grid module for FramerJS](/record.gif)

@@ -1,5 +1,5 @@
-exports.gridddle = (amount, color) ->
-  amountSize = Screen.width / amount
+exports.gridddle = (amountOfCell, gridColor) ->
+  amountSize = Screen.width / amountOfCell
   screenWidth = Screen.width
   screenHeight = Screen.height
   stepHorizontal = screenWidth / amountSize
@@ -10,11 +10,13 @@ exports.gridddle = (amount, color) ->
       height: screenHeight
       x: amountSize * i
       y: 0
-      backgroundColor: color
+      backgroundColor: gridColor
+      name: "Vertical line"
   for j in [0..stepVertical]
     lineHorizontal = new Layer
       width: screenWidth
       height: 1/2
       x: 0
       y: j * amountSize
-      backgroundColor: color
+      backgroundColor: gridColor
+      name: "Horizontal line"
