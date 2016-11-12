@@ -13,6 +13,15 @@ Sometimes I create a layout for my prototype directly in FramerJS. So I used to 
 3. Connect gridddle to your code.
 
 ## How to set gridddle
-```module.gridddle(amount, color)```
-amount — grid's amount of square.
-color — is grid's color.
+
+```
+# Connect gridddle module
+module = require "gridddle"
+
+# Define amount of cell and grid color
+gridColor = "rgba(226, 74, 74, .5)"
+amountOfCell = 16
+
+# Call gridddle and pass it out gridddle settings
+module.gridddle(amountOfCell, gridColor)
+```
