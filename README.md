@@ -22,7 +22,6 @@ module = require "gridddle"
 amountOfCell = 16
 gridColor = "rgba(226, 74, 74, .5)"
 
-
 # Call gridddle and pass it out gridddle settings
 module.gridddle(amountOfCell, gridColor)
 ```
