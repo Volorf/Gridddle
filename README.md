@@ -30,6 +30,7 @@ module.gridddle(amountOfCell, gridColor)
 ## How is how here
 
 **amountOfCell** defines amount of horizontal cell.
+
 **gridColor** sets color for our grid.
 
 ![Grid module for FramerJS](/record.gif)
